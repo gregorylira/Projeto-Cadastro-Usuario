@@ -1,0 +1,13 @@
+{
+    "users":[{
+        "id": 1,
+        "name": "Leanne Graham",
+        "email": "aoliveira@cod3r.com"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        "email": "teste2@cod3r.com"
+    }
+    ]
+}
