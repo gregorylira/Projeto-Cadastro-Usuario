@@ -1,13 +1,19 @@
 {
-    "users":[{
-        "id": 1,
-        "name": "Leanne Graham",
-        "email": "aoliveira@cod3r.com"
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Grahama",
+      "email": "aoliveira@cod3r.com"
     },
     {
-        "id": 2,
-        "name": "Ervin Howell",
-        "email": "teste2@cod3r.com"
+      "name": "Gregory Filipe",
+      "email": "gregory.lira007@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "kinaloka",
+      "email": "gregolyra@yahoo.com",
+      "id": 5
     }
-    ]
+  ]
 }

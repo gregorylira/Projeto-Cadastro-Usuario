@@ -14,10 +14,10 @@ import Footer from "../components/templates/Footer";
 export default props => 
     <BrowserRouter>
         <div className="app">
-        <Logo />
-        <Nav />
-        <Routes />
-        <Footer />
-    </div>
+            <Logo />
+            <Nav />
+            <Routes />
+            <Footer />
+        </div>
     </BrowserRouter>
     
